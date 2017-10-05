@@ -10,7 +10,7 @@ import Popover from 'material-ui/Popover'
 import TextField from 'material-ui/TextField'
 import { ListItem } from 'material-ui/List';
 import CheckedIcon from 'material-ui-icons/Check'
-import UnCheckedIcon from 'material-ui-icons/toggle/CheckBoxOutlineBlank'
+import UnCheckedIcon from 'material-ui-icons/CheckBoxOutlineBlank'
 import DropDownArrow from 'material-ui-icons/ArrowDropDown'
 
 // ================================================================
